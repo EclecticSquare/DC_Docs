@@ -1,0 +1,50 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.navBar {
+  background-color: #555555;
+  height: 100vh;
+}
+
+.navTitle {
+  text-align: left;
+  color: white;
+  margin: 40px auto 30px 10px;
+}
+
+.navList {
+  text-align: left;
+  margin-left: -25px;
+}
+
+.navTitle {
+  font-size: 24px;
+}
+
+#searchBox {
+  background-color: #555555;
+  border: 3px solid #888888;
+}
+
+li {
+  color: #ADADAD;
+  list-style: none;
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 12px;
+
+}
+li:first-child {
+  color: white;
+  margin-top: 50px;
+}
+
+.copywright {
+  color: #888888;
+  margin:auto;
+  position: absolute;
+  bottom: 0;
+}
+.mainPage {
